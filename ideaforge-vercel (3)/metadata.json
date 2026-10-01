@@ -1,0 +1,8 @@
+{
+  "name": "IdeaForge - Generador de Productos con IA",
+  "description": "Genera 3 ideas de productos digitales o físicos a partir de tus habilidades y a quién quieres ayudar, con encabezado animado TechText interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
